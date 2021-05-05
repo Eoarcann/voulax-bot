@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const token = 'ODM4ODU1MjM0NDg2MTQwOTUw.YJBK0Q.00D07z3yoiJRMeIBhPqVwFYT2Fc';
+
 const prefix = '~';
 const factsChannels = ['839048973301448754', '818548564132233267', '838891558740688906']; // Test , voulax-land , flood
 lastFactsIds = [0, 0, 0];
