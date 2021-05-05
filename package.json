@@ -1,0 +1,16 @@
+{
+  "name": "voulaxbot",
+  "version": "1.0.0",
+  "description": "Random facts generator !",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Luna",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1"
+  }
+}
